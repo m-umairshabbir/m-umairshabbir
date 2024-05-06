@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
-<img align="right" alt="gifImage" width="400" src="![image](https://github.com/m-umairshabbir/m-umairshabbir/assets/147035727/a7d1153f-bd94-481f-8570-6f762131d67b)
+![image](https://github.com/m-umairshabbir/m-umairshabbir/assets/147035727/a7d1153f-bd94-481f-8570-6f762131d67b)
 
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umairshabbir&label=Profile%20views&color=0e75b6&style=flat" alt="m-umairshabbir" /> </p>
